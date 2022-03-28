@@ -1,2 +1,15 @@
-# reactUmi
-基于umi框架构建的react应用
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
